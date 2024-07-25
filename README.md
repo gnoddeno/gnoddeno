@@ -1,31 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:005AA7,100:FFFDE4&text=Gnoddeno&textBg=false&fontSize=50&fontAlignY=50&animation=fadeIn&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
 
-### 안녕하세요 개발자를 꿈꾸는 대학생입니다. 
 
-<br><br>
-<div align=right>
-Skills
-<br>
+## 안녕하세요 개발자를 꿈꾸는 대학생입니다.
+
+### Skils
+<div>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-
-<br>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src ="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src ="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </div>
-<div align=right > 
-Languages
-<br>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<br>
-</div>
-<br><br><br><br><br><br><br>
 <details>	
    <summary>technical research</summary>
    <br/>
@@ -43,3 +30,4 @@ Languages
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnoddeno&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
