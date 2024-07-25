@@ -17,8 +17,9 @@
    <summary>technical research</summary>
    <br/>
  <ul>
-<img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-<a href="https://gnoddeno.notion.site/Remix-Rebalanced-Mixup-e9989b526a674115a6bda300391f2057?pvs=4" target="_blank"> Remix: balanced mixup</a>
+    <a href="https://gnoddeno.notion.site/Remix-Rebalanced-Mixup-e9989b526a674115a6bda300391f2057?pvs=4" target="_blank">
+      <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+   </a>
  </ul>
   </details>
 <a href="https://github.com/anuraghazra/github-readme-stats">
