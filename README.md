@@ -9,4 +9,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnoddeno&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:FFFDE4,100:005AA7&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:FFFDE4,100:005AA7&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
+](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:005AA7,100:FFFDE4&textBg=false&fontSize=70&fontAlignY=50&animation=fadeIn&strokeWidth=0&descAlignY=50&reversal=true&section=footer)
