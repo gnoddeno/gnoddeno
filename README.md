@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:005AA7,100:FFFDE4&text=Gnoddeno&textBg=false&fontSize=50&fontAlignY=50&animation=fadeIn&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
 
-
-### 안녕하세요 개발자를 꿈꾸는 대학생입니다.
+### 안녕하세요 개발자를 꿈꾸는 대학생입니다. 
 
 <br><br>
-<div style = "float: left; width: 35%">
+<div align=right>
 Skills
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -16,7 +15,7 @@ Skills
 <br>
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
-<div style = "float: right; width: 50%"> 
+<div align=right > 
 Languages
 <br>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
