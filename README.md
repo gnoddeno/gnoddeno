@@ -1,5 +1,17 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:005AA7,100:FFFDE4&text=Gnoddeno&textBg=false&fontSize=50&fontAlignY=50&animation=fadeIn&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
+
+<div align=center>
+
+
+</div>
+<details>	
+   <summary>technical research</summary>
+   <br/>
+ <ul>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+ </ul>
+  </details>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoddeno&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
