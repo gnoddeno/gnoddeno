@@ -1,4 +1,3 @@
-## Gnoddeno
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:005AA7,100:FFFDE4&text=Gnoddeno&textBg=false&fontSize=50&fontAlignY=50&animation=fadeIn&strokeWidth=0&descAlignY=50&reversal=true" width="100%"/>
 
 <div align=center>
