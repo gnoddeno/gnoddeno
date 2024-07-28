@@ -2,7 +2,7 @@
 
 ## 안녕하세요 개발자를 꿈꾸는 대학생입니다.
 
-### 스킬스
+### Skils
 <div>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
